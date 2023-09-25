@@ -6,6 +6,5 @@ Minha primeira aplicação no Android Studio. Utilizando internacionalização c
     <td><img src="/assets/eg.png" width="300"></td>
     <td><img src="/assets/pt.png" width="300"></td>
     <td><img src="/assets/es.png" width="300"></td>
-  </tr>
-</table>
+  </tr></table>
 
